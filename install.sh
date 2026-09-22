@@ -146,4 +146,3 @@ fi
 
 echo "Installed into $profile"
 echo "Cycle methods with Ctrl+Space. US stays the default until you switch."
-echo "US stays the default until you switch."
